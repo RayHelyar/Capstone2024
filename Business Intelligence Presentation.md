@@ -1,8 +1,8 @@
 # Business Intelligence Presentation Proposal
 
 
-![](https://github.com/RayHelyar/Capstone2024/blob/main/img/DrkFr.png?raw=true)
-## Introduction
+
+##![](https://github.com/RayHelyar/Capstone2024/blob/main/img/DrkFr.png?raw=true) Introduction
 - Overview of the business intelligence topic
 - Significance of data-driven decision-making
 - Goals of the presentation
