@@ -1,7 +1,7 @@
 # Business Intelligence Presentation Proposal
 
 
-[My Rocket](https://github.com/RayHelyar/Capstone2024/blob/main/img/DrkFr.png?raw=true)
+!(https://github.com/RayHelyar/Capstone2024/blob/main/img/DrkFr.png?raw=true)
 ## Introduction
 - Overview of the business intelligence topic
 - Significance of data-driven decision-making
