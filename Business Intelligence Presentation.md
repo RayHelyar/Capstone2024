@@ -8,9 +8,9 @@
 - Goals of the presentation
 
 
-<img src="https://github.com/RayHelyar/Capstone2024/blob/main/img/DrkFr.png?raw=true" alt="Sized Rocket" width="25px" height="25px">
 
-## Presentation Candidate
+## <img src="https://github.com/RayHelyar/Capstone2024/blob/main/img/DrkFr.png?raw=true" alt="Sized Rocket" width="25px" height="25px">
+ Presentation Candidate
 - Name and professional background
 - Experience with business intelligence tools and methodologies
 
